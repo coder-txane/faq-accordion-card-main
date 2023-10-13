@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/final design.png)
+![final-design](design/final design.png)
 
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/faq-accordion-card-SoN5sxlybH)
-- Live Site URL: (coder-txane.github.io/faq-accordion-card-main/)
+- Live Site URL: (https://coder-txane.github.io/faq-accordion-card-main/)
 
 ## My process
 

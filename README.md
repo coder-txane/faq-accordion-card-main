@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](design/final design.png)
+![](design/final-design.png)
 
 ### Links
 
